@@ -1,0 +1,10 @@
+<h3>Shoes Orders</h3>
+
+<% @shoos.each do |shoes| %>
+  <b>Name:</b>
+  <p><%= shoes.full_name() %></p>
+  <b>Order</b>
+  <p><=% shoes.quantity%></p>
+  <p><=% shoes.size%></p>
+<hr>
+<% end %>
