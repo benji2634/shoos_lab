@@ -1,0 +1,25 @@
+body {
+    color: blue;
+    background-color: cyan; 
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/db/d5/98/dbd598cbf2940ba2aaeab28a8d3b3cf7.jpg");
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+    text-decoration: underline;
+    font-family: impact;
+}
+
+form {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    color: black;
+}
+
+p {
+  text-align: left;
+  font-family: Helvetica, sans-serif;
+  color: black;
+}
+
